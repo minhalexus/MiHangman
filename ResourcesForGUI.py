@@ -1,0 +1,6 @@
+#head = canvas.create_oval(90,40,110,60, width = 2)
+#body = canvas.create_line(100,60,100,100, width = 2)
+#leftHand = canvas.create_line(100,70,80,80, width = 2)
+#rightHand = canvas.create_line(100,70,120,80, width = 2)
+#rightFeet = canvas.create_line(100,100,80,130, width = 2)
+#rightFeet = canvas.create_line(100,100,120,130, width = 2)
